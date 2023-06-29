@@ -1,7 +1,7 @@
 package org.example.springboot1.service;
 
 import org.example.springboot1.model.User;
-import org.example.springboot1.repos.UserRepo;
+import org.example.springboot1.repository.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
